@@ -1,11 +1,17 @@
 DISCLAIMER
 
-This project is a fork of the official SDK released by Valve Corporation and includes modifications made by an independent developer. These modifications are not approved, supported, or endorsed in any way by Valve Corporation, AMD, or any third-party rights holders of the original software.
+This project is a fork of the official SDK released by Valve Corporation and includes modifications made by an independent developer. These modifications are not approved, supported,
+or endorsed in any way by Valve Corporation, AMD, or any third-party rights holders of the original software.
 
-All changes have been implemented with due consideration for Application Binary Interface (ABI) compatibility to ensure binary-level interoperability with the original SDK. Nevertheless, the author of this fork makes no guarantees regarding stability, security, or correct functionality of the modified software. Any use of this code is undertaken at your own risk.
+All changes have been implemented with due consideration for Application Binary Interface (ABI) compatibility to ensure binary-level interoperability with the original SDK.
+Nevertheless, the author of this fork makes no guarantees regarding stability, security, or correct functionality of the modified software. Any use of this code is undertaken at your own risk.
 
-Please note that certain components of the SDK – specifically, some DLL/SO files – are proprietary, provided by Valve Corporation without source code, and cannot be independently recompiled. The author of this fork must therefore use these binary files “as is” and cannot control, verify, or influence their internal implementation, security, or compatibility with future updates. This limitation is taken into account when introducing changes to other parts of the project.
+Please note that certain components of the SDK – specifically, some DLL/SO files – are proprietary, provided by Valve Corporation without source code, and cannot be independently recompiled.
+The author of this fork must therefore use these binary files “as is” and cannot control, verify, or influence their internal implementation, security, or compatibility with future updates.
+This limitation is taken into account when introducing changes to other parts of the project.
 
-For maximum stability, security, and official support, it is strongly recommended to use the original SDK distributed directly by Valve Corporation. The author of this fork shall not be held liable for any damages, system failures, data loss, breaches of license terms, or any other consequences arising from the use of this modified software.
+For maximum stability, security, and official support, it is strongly recommended to use the original SDK distributed directly by Valve Corporation.
+The author of this fork shall not be held liable for any damages, system failures, data loss, breaches of license terms, or any other consequences arising from the use of this modified software.
+
 
 Please also review the "DISCLAIMER OF GUARANTEES" and "LIMITATION OF LIABILITY" clauses of the current license.

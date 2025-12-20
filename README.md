@@ -34,7 +34,7 @@ See the original build instructions at this [link](https://github.com/ValveSoftw
 > You can separately rebuild the modified projects as part of the solution.
 
 ## Disclaimer of Liability
-The author is not responsible for the use of this code (see the `[DISCLAIMER](https://github.com/rabbitGraned/source-sdk-2013/blob/master/LICENSE)' for details).
+The author is not responsible for the use of this code (see the `[DISCLAIMER](https://github.com/rabbitGraned/source-sdk-2013/blob/master/DISCLAIMER)' for details).
 
 Use the modified files at your own risk. It is recommended to check the original SDK for public projects.
 
